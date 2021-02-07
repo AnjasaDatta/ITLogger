@@ -4,46 +4,51 @@
       "id": 1,
       "message": "Changed network card in server 007",
       "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-09-16T04:08:01.217Z"
+      "tech": "Anita Datta",
+      "date": "2021-02-07T06:33:48.709Z"
     },
     {
       "id": 2,
       "message": "Fixed hard drive on workstation 002",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-09-16T14:27:36.801Z"
+      "tech": "Amit Datta",
+      "date": "2021-02-07T06:33:54.968Z"
     },
     {
+      "id": 3,
       "message": "1122 wireless down",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "tech": "Arasha Datta",
+      "date": "2021-02-07T06:34:02.224Z"
     },
     {
       "id": 4,
       "message": "Workstation 026 is up and running",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "tech": "Anita Datta",
+      "date": "2021-02-07T06:34:09.442Z"
     }
   ],
   "techs": [
     {
       "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
+      "firstName": "Anjasa",
+      "lastName": "Datta"
     },
     {
       "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
+      "firstName": "Anita",
+      "lastName": "Datta"
     },
     {
       "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
+      "firstName": "Amit",
+      "lastName": "Datta"
+    },
+    {
+      "firstName": "Arasha",
+      "lastName": "Datta",
+      "id": 4
     }
   ]
 }
